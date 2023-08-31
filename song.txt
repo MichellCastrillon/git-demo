@@ -3,19 +3,9 @@ wall of shields
 standing strong
 o this their chosen battle field
 
-<<<<<<< HEAD
-Form the lines
-Shield by Shield
-Side by Side
-We're marching into destiny
-
-We're the champions
-My friend
-
-new letter for the sond
-=======
 March as one
 DOn't look back
 Oden's sons
 ATTACK!
->>>>>>> feature
+
+content to be saved
